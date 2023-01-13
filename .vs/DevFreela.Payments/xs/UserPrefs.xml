@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{329BD774-EC1E-4313-BAD3-3114A43D0C37}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/vagnerwentz/Projects/DevFreela.Payments/DevFreela.Payments.API/Controllers/PaymentsController.cs" relfile="DevFreela.Payments.API/Controllers/PaymentsController.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DevFreela.Payments.API PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DevFreela.Payments.API/Controllers/PaymentsController.cs">
+    <Files>
+      <File FileName="DevFreela.Payments.API/Controllers/PaymentsController.cs" Line="23" Column="25" />
+      <File FileName="DevFreela.Payments.API/Services/IPaymentService.cs" Line="7" Column="6" />
+      <File FileName="DevFreela.Payments.API/Models/PaymentInfoInputModel.cs" Line="15" Column="1" />
+      <File FileName="DevFreela.Payments.API/appsettings.json" Line="11" Column="1" />
+      <File FileName="DevFreela.Payments.API/Services/PaymentService.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DevFreela.Payments" expanded="True">
+            <Node name="DevFreela.Payments.API" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PaymentsController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

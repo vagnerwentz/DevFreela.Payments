@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBHXZCX5qr5jTER7JS/8bkDTWK934ABWJrQZHFhNdQtx2j7Qo+BLgkXvhs49h1enZmb89mYAfKbVVmkSfhDPFw==",
+  "success": true,
+  "projectFilePath": "/Users/vagnerwentz/Projects/DevFreela.Payments/DevFreela.Payments.API/DevFreela.Payments.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/vagnerwentz/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/vagnerwentz/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/vagnerwentz/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/vagnerwentz/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/vagnerwentz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/vagnerwentz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
