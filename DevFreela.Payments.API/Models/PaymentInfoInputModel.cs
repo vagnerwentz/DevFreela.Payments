@@ -3,7 +3,7 @@ namespace DevFreela.Payments.API.Models
 {
     public class PaymentInfoInputModel
     {
-        public int ProjectId { get; set; }
+        public int Id { get; set; }
         public string CreditCardNumber { get; set; }
         public string CVV { get; set; }
         public string ExpiresAt { get; set; }

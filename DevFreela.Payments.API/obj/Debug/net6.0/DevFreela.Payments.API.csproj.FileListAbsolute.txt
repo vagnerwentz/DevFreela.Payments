@@ -25,3 +25,4 @@
 /Users/vagnerwentz/Projects/DevFreela.Payments/DevFreela.Payments.API/obj/Debug/net6.0/DevFreela.Payments.API.pdb
 /Users/vagnerwentz/Projects/DevFreela.Payments/DevFreela.Payments.API/obj/Debug/net6.0/DevFreela.Payments.API.genruntimeconfig.cache
 /Users/vagnerwentz/Projects/DevFreela.Payments/DevFreela.Payments.API/obj/Debug/net6.0/ref/DevFreela.Payments.API.dll
+/Users/vagnerwentz/Projects/DevFreela.Payments/DevFreela.Payments.API/bin/Debug/net6.0/RabbitMQ.Client.dll
